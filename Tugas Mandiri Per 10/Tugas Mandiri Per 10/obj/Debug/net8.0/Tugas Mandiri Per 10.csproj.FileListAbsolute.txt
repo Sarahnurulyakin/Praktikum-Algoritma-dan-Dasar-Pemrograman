@@ -1,0 +1,14 @@
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\bin\Debug\net8.0\Tugas Mandiri Per 10.exe
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\bin\Debug\net8.0\Tugas Mandiri Per 10.deps.json
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\bin\Debug\net8.0\Tugas Mandiri Per 10.runtimeconfig.json
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\bin\Debug\net8.0\Tugas Mandiri Per 10.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\bin\Debug\net8.0\Tugas Mandiri Per 10.pdb
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\obj\Debug\net8.0\Tugas Mandiri Per 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\obj\Debug\net8.0\Tugas Mandiri Per 10.AssemblyInfoInputs.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\obj\Debug\net8.0\Tugas Mandiri Per 10.AssemblyInfo.cs
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\obj\Debug\net8.0\Tugas Mandiri Per 10.csproj.CoreCompileInputs.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\obj\Debug\net8.0\Tugas Mandiri Per 10.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\obj\Debug\net8.0\refint\Tugas Mandiri Per 10.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\obj\Debug\net8.0\Tugas Mandiri Per 10.pdb
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\obj\Debug\net8.0\Tugas Mandiri Per 10.genruntimeconfig.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri Per 10\Tugas Mandiri Per 10\obj\Debug\net8.0\ref\Tugas Mandiri Per 10.dll

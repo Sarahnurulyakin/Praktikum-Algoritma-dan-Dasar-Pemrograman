@@ -1,0 +1,14 @@
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\bin\Debug\net8.0\Tugas Mandiri per 4.exe
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\bin\Debug\net8.0\Tugas Mandiri per 4.deps.json
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\bin\Debug\net8.0\Tugas Mandiri per 4.runtimeconfig.json
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\bin\Debug\net8.0\Tugas Mandiri per 4.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\bin\Debug\net8.0\Tugas Mandiri per 4.pdb
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\obj\Debug\net8.0\Tugas Mandiri per 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\obj\Debug\net8.0\Tugas Mandiri per 4.AssemblyInfoInputs.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\obj\Debug\net8.0\Tugas Mandiri per 4.AssemblyInfo.cs
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\obj\Debug\net8.0\Tugas Mandiri per 4.csproj.CoreCompileInputs.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\obj\Debug\net8.0\Tugas Mandiri per 4.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\obj\Debug\net8.0\refint\Tugas Mandiri per 4.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\obj\Debug\net8.0\Tugas Mandiri per 4.pdb
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\obj\Debug\net8.0\Tugas Mandiri per 4.genruntimeconfig.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Tugas Mandiri per 4\Tugas Mandiri per 4\obj\Debug\net8.0\ref\Tugas Mandiri per 4.dll
