@@ -1,0 +1,14 @@
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\bin\Debug\net8.0\praktikan pert 14.exe
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\bin\Debug\net8.0\praktikan pert 14.deps.json
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\bin\Debug\net8.0\praktikan pert 14.runtimeconfig.json
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\bin\Debug\net8.0\praktikan pert 14.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\bin\Debug\net8.0\praktikan pert 14.pdb
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\obj\Debug\net8.0\praktikan pert 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\obj\Debug\net8.0\praktikan pert 14.AssemblyInfoInputs.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\obj\Debug\net8.0\praktikan pert 14.AssemblyInfo.cs
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\obj\Debug\net8.0\praktikan pert 14.csproj.CoreCompileInputs.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\obj\Debug\net8.0\praktikan pert 14.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\obj\Debug\net8.0\refint\praktikan pert 14.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\obj\Debug\net8.0\praktikan pert 14.pdb
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\obj\Debug\net8.0\praktikan pert 14.genruntimeconfig.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\praktikan pert 14\praktikan pert 14\obj\Debug\net8.0\ref\praktikan pert 14.dll
