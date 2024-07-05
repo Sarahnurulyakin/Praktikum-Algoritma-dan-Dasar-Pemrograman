@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tugas Mandiri per 2/1.0.0": {
+        "runtime": {
+          "Tugas Mandiri per 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas Mandiri per 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
