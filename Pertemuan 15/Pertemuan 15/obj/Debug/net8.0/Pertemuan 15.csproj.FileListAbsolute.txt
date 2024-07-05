@@ -1,0 +1,14 @@
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\bin\Debug\net8.0\Pertemuan 15.exe
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\bin\Debug\net8.0\Pertemuan 15.deps.json
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\bin\Debug\net8.0\Pertemuan 15.runtimeconfig.json
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\bin\Debug\net8.0\Pertemuan 15.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\bin\Debug\net8.0\Pertemuan 15.pdb
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\obj\Debug\net8.0\Pertemuan 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\obj\Debug\net8.0\Pertemuan 15.AssemblyInfoInputs.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\obj\Debug\net8.0\Pertemuan 15.AssemblyInfo.cs
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\obj\Debug\net8.0\Pertemuan 15.csproj.CoreCompileInputs.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\obj\Debug\net8.0\Pertemuan 15.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\obj\Debug\net8.0\refint\Pertemuan 15.dll
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\obj\Debug\net8.0\Pertemuan 15.pdb
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\obj\Debug\net8.0\Pertemuan 15.genruntimeconfig.cache
+C:\Users\SarahNy\OneDrive\SarahNy\Sarah nurul yakin\Pertemuan 15\Pertemuan 15\obj\Debug\net8.0\ref\Pertemuan 15.dll
